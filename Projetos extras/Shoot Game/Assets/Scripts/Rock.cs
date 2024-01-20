@@ -7,7 +7,18 @@ public class Rock : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        GameObject shipObject = GameObject.FindGameObjectWithTag("Ship");
+        Vector3 shipLocation = shipObject.transform.position;
+
+        Vector3 rockSpawnPostion = transform.position;
+        float deltaX = shipLocation.x - rockSpawnPostion.x;
+        float deltaY = shipLocation.y - rockSpawnPostion.y;
+
+        Vector2 forceDirection = new Vector2(deltaX, deltaY);
+
+        // float forceMagnitude = Random.Range(2f, 4f);
+
+        gameObject.GetComponent<Rigidbody2D>().AddForce(forceDirection, ForceMode2D.Impulse);
     }
 
     // Update is called once per frame
