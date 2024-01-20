@@ -18,7 +18,7 @@ public class Rock : MonoBehaviour
 
         // float forceMagnitude = Random.Range(2f, 4f);
 
-        gameObject.GetComponent<Rigidbody2D>().AddForce(forceDirection, ForceMode2D.Impulse);
+        gameObject.GetComponent<Rigidbody2D>().AddForce(forceDirection * 20, ForceMode2D.Force);
     }
 
     // Update is called once per frame
