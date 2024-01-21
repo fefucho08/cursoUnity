@@ -1,0 +1,15 @@
+C:\Users\Fefuc\OneDrive\Área de Trabalho\Unity\Iteration\Exercise 8\bin\Debug\net8.0\Exercise 8.exe
+C:\Users\Fefuc\OneDrive\Área de Trabalho\Unity\Iteration\Exercise 8\bin\Debug\net8.0\Exercise 8.deps.json
+C:\Users\Fefuc\OneDrive\Área de Trabalho\Unity\Iteration\Exercise 8\bin\Debug\net8.0\Exercise 8.runtimeconfig.json
+C:\Users\Fefuc\OneDrive\Área de Trabalho\Unity\Iteration\Exercise 8\bin\Debug\net8.0\Exercise 8.dll
+C:\Users\Fefuc\OneDrive\Área de Trabalho\Unity\Iteration\Exercise 8\bin\Debug\net8.0\Exercise 8.pdb
+C:\Users\Fefuc\OneDrive\Área de Trabalho\Unity\Iteration\Exercise 8\obj\Debug\net8.0\Exercise 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fefuc\OneDrive\Área de Trabalho\Unity\Iteration\Exercise 8\obj\Debug\net8.0\Exercise 8.AssemblyInfoInputs.cache
+C:\Users\Fefuc\OneDrive\Área de Trabalho\Unity\Iteration\Exercise 8\obj\Debug\net8.0\Exercise 8.AssemblyInfo.cs
+C:\Users\Fefuc\OneDrive\Área de Trabalho\Unity\Iteration\Exercise 8\obj\Debug\net8.0\Exercise 8.csproj.CoreCompileInputs.cache
+C:\Users\Fefuc\OneDrive\Área de Trabalho\Unity\Iteration\Exercise 8\obj\Debug\net8.0\Exercise 8.sourcelink.json
+C:\Users\Fefuc\OneDrive\Área de Trabalho\Unity\Iteration\Exercise 8\obj\Debug\net8.0\Exercise 8.dll
+C:\Users\Fefuc\OneDrive\Área de Trabalho\Unity\Iteration\Exercise 8\obj\Debug\net8.0\refint\Exercise 8.dll
+C:\Users\Fefuc\OneDrive\Área de Trabalho\Unity\Iteration\Exercise 8\obj\Debug\net8.0\Exercise 8.pdb
+C:\Users\Fefuc\OneDrive\Área de Trabalho\Unity\Iteration\Exercise 8\obj\Debug\net8.0\Exercise 8.genruntimeconfig.cache
+C:\Users\Fefuc\OneDrive\Área de Trabalho\Unity\Iteration\Exercise 8\obj\Debug\net8.0\ref\Exercise 8.dll
