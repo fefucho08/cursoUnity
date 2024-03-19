@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cf1wZ4E0lRPMlKfXmmQfnRhs8xjItW9vvujbsFuV+ydqlTynO4VEOHXwo59wG+1Ot6HJPMJmLjHO3lLOIyYDZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fefuc\\OneDrive\\Área de Trabalho\\Unity\\C# Class Development\\Assessment\\ProgrammingAssignment1\\ProgrammingAssignment1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fefuc\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Fefuc\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Fefuc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Fefuc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
