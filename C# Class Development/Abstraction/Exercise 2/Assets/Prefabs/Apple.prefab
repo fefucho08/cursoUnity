@@ -8,6 +8,7 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< Updated upstream:C# Class Development/Abstraction/Exercise 2/Assets/Prefabs/Apple.prefab
   - component: {fileID: 4991332002817790}
   - component: {fileID: 212915148845910058}
   - component: {fileID: 50304240968508918}
@@ -16,6 +17,16 @@ GameObject:
   m_Layer: 0
   m_Name: Apple
   m_TagString: Untagged
+=======
+  - component: {fileID: 4434930679359341303}
+  - component: {fileID: 3864465137234223847}
+  - component: {fileID: 1883701244287212612}
+  - component: {fileID: -5586268341216443743}
+  - component: {fileID: -5304572554264791793}
+  m_Layer: 8
+  m_Name: Bullet
+  m_TagString: Bullet
+>>>>>>> Stashed changes:Projetos extras/Shoot and Dodge Game/Assets/Prefabs/Bullet.prefab
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
